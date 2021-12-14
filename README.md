@@ -9,7 +9,9 @@ HES Kodunu API ile sorgulayıp;
 
 **Sorunsuz kullanım için https:// protokolünde yayın yapılmalıdır.
 
-Tamamen örnek kod yapısı için paylaşılmıştır.İlgili prosedürler yerine getirilip end point, api login bilgileri alınmalıdır.Kod üzerinde ki bu bilgiler temsilidir.
+Tamamen örnek kod yapısı için paylaşılmıştır.İlgili prosedürler yerine getirilip end point, api login bilgileri alınmalıdır.
+
+Kod üzerinde ki bu bilgiler temsilidir.
 
 Herhangi bir amaç için kullanılamaz.
 
