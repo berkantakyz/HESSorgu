@@ -1,0 +1,664 @@
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\HESSorgu.dll.config
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\HESSorgu.pdb
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\csc.exe
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\csc.exe.config
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\csc.rsp
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\csi.exe
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\csi.exe.config
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\csi.rsp
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.AppContext.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Console.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Net.Http.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\vbc.exe
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\vbc.exe.config
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\vbc.rsp
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Antlr3.Runtime.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Newtonsoft.Json.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\RestSharp.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Helpers.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Mvc.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Optimization.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Razor.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.WebPages.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\WebGrease.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\RestSharp.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Helpers.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Mvc.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Optimization.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.Razor.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.WebPages.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Newtonsoft.Json.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Antlr3.Runtime.pdb
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\obj\Debug\HESSorgu.csprojAssemblyReference.cache
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\obj\Debug\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\SON PROJE\HESSorgu\obj\Debug\HESSorgu.pdb
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\csc.exe
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\HESSorgu.dll.config
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\HESSorgu.pdb
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\csc.exe
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\csc.exe.config
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\csc.rsp
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\csi.exe
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\csi.exe.config
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\csi.rsp
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.AppContext.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Console.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Net.Http.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\vbc.exe
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\vbc.exe.config
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\vbc.rsp
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Antlr3.Runtime.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ClosedXML.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\DocumentFormat.OpenXml.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\EntityFramework.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\EntityFramework.SqlServer.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ExcelDataReader.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ExcelNumberFormat.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Newtonsoft.Json.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\RestSharp.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.IO.Packaging.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Json.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Helpers.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Mvc.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Optimization.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Razor.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.WebPages.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\WebGrease.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ClosedXML.pdb
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ClosedXML.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\DocumentFormat.OpenXml.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\EntityFramework.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\EntityFramework.SqlServer.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ExcelDataReader.pdb
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ExcelDataReader.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\ExcelNumberFormat.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\RestSharp.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Json.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Helpers.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Mvc.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Optimization.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.Razor.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.WebPages.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Newtonsoft.Json.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Antlr3.Runtime.pdb
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\obj\Debug\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\SON HES\HESSorgu\obj\Debug\HESSorgu.pdb
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\HESSorgu.dll.config
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\HESSorgu.pdb
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\csc.exe
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\csc.exe.config
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\csc.rsp
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\csi.exe
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\csi.exe.config
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\csi.rsp
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.AppContext.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Console.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Net.Http.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\vbc.exe
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\vbc.exe.config
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\vbc.rsp
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Antlr3.Runtime.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ClosedXML.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\DocumentFormat.OpenXml.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\EntityFramework.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\EntityFramework.SqlServer.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ExcelDataReader.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ExcelNumberFormat.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Newtonsoft.Json.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\RestSharp.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.IO.Packaging.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Json.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Helpers.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Mvc.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Optimization.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Razor.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.WebPages.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\WebGrease.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ClosedXML.pdb
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ClosedXML.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\DocumentFormat.OpenXml.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\EntityFramework.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\EntityFramework.SqlServer.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ExcelDataReader.pdb
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ExcelDataReader.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\ExcelNumberFormat.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\RestSharp.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Json.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Helpers.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Mvc.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Optimization.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.Razor.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.WebPages.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Newtonsoft.Json.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Antlr3.Runtime.pdb
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\obj\Debug\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\HES_SORGU_1\SON HES\HESSorgu\obj\Debug\HESSorgu.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\HESSorgu.dll.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\HESSorgu.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\HESSorgu.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\csc.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\csc.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\csc.rsp
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\csi.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\csi.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\csi.rsp
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.AppContext.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Console.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Net.Http.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\vbc.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\vbc.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\vbc.rsp
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Antlr3.Runtime.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ClosedXML.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\DocumentFormat.OpenXml.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\EntityFramework.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\EntityFramework.SqlServer.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ExcelDataReader.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ExcelNumberFormat.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Newtonsoft.Json.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\RestSharp.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.IO.Packaging.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Json.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Helpers.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Mvc.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Optimization.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Razor.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.WebPages.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\WebGrease.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ClosedXML.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ClosedXML.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\DocumentFormat.OpenXml.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\EntityFramework.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\EntityFramework.SqlServer.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ExcelDataReader.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ExcelDataReader.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\ExcelNumberFormat.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\RestSharp.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Json.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Helpers.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Mvc.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Optimization.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.Razor.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.WebPages.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Newtonsoft.Json.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Antlr3.Runtime.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\obj\Debug\HESSorgu.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu\obj\Debug\HESSorgu.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\HESSorgu.dll.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\HESSorgu.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\HESSorgu.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\csc.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\csc.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\csc.rsp
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\csi.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\csi.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\csi.rsp
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.AppContext.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Console.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Net.Http.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\vbc.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\vbc.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\vbc.rsp
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Antlr3.Runtime.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ClosedXML.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\DocumentFormat.OpenXml.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\EntityFramework.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\EntityFramework.SqlServer.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ExcelDataReader.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ExcelNumberFormat.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Newtonsoft.Json.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\RestSharp.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.IO.Packaging.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Json.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Helpers.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Mvc.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Optimization.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Razor.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.WebPages.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\WebGrease.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ClosedXML.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ClosedXML.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\DocumentFormat.OpenXml.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\EntityFramework.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\EntityFramework.SqlServer.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ExcelDataReader.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ExcelDataReader.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\ExcelNumberFormat.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\RestSharp.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Json.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Helpers.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Mvc.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Optimization.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.Razor.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.WebPages.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Newtonsoft.Json.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Antlr3.Runtime.pdb
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\obj\Debug\HESSorgu.dll
+C:\Users\berkant.akyuz.TR\Desktop\HESSorgu-work\obj\Debug\HESSorgu.pdb
+C:\Dev\HESSorgu\bin\HESSorgu.dll.config
+C:\Dev\HESSorgu\bin\HESSorgu.dll
+C:\Dev\HESSorgu\bin\HESSorgu.pdb
+C:\Dev\HESSorgu\bin\roslyn\csc.exe
+C:\Dev\HESSorgu\bin\roslyn\csc.exe.config
+C:\Dev\HESSorgu\bin\roslyn\csc.rsp
+C:\Dev\HESSorgu\bin\roslyn\csi.exe
+C:\Dev\HESSorgu\bin\roslyn\csi.exe.config
+C:\Dev\HESSorgu\bin\roslyn\csi.rsp
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\HESSorgu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dev\HESSorgu\bin\roslyn\System.AppContext.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Console.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Dev\HESSorgu\bin\roslyn\System.IO.Compression.dll
+C:\Dev\HESSorgu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Dev\HESSorgu\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev\HESSorgu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Net.Http.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Net.Sockets.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Dev\HESSorgu\bin\roslyn\System.ValueTuple.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Xml.XPath.dll
+C:\Dev\HESSorgu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev\HESSorgu\bin\roslyn\vbc.exe
+C:\Dev\HESSorgu\bin\roslyn\vbc.exe.config
+C:\Dev\HESSorgu\bin\roslyn\vbc.rsp
+C:\Dev\HESSorgu\bin\roslyn\VBCSCompiler.exe
+C:\Dev\HESSorgu\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\HESSorgu\bin\Antlr3.Runtime.dll
+C:\Dev\HESSorgu\bin\ClosedXML.dll
+C:\Dev\HESSorgu\bin\DocumentFormat.OpenXml.dll
+C:\Dev\HESSorgu\bin\EntityFramework.dll
+C:\Dev\HESSorgu\bin\EntityFramework.SqlServer.dll
+C:\Dev\HESSorgu\bin\ExcelDataReader.dll
+C:\Dev\HESSorgu\bin\ExcelNumberFormat.dll
+C:\Dev\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\HESSorgu\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\HESSorgu\bin\Newtonsoft.Json.dll
+C:\Dev\HESSorgu\bin\RestSharp.dll
+C:\Dev\HESSorgu\bin\System.IO.Packaging.dll
+C:\Dev\HESSorgu\bin\System.Json.dll
+C:\Dev\HESSorgu\bin\System.Web.Helpers.dll
+C:\Dev\HESSorgu\bin\System.Web.Mvc.dll
+C:\Dev\HESSorgu\bin\System.Web.Optimization.dll
+C:\Dev\HESSorgu\bin\System.Web.Razor.dll
+C:\Dev\HESSorgu\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\HESSorgu\bin\System.Web.WebPages.dll
+C:\Dev\HESSorgu\bin\System.Web.WebPages.Razor.dll
+C:\Dev\HESSorgu\bin\WebGrease.dll
+C:\Dev\HESSorgu\bin\ClosedXML.pdb
+C:\Dev\HESSorgu\bin\ClosedXML.xml
+C:\Dev\HESSorgu\bin\DocumentFormat.OpenXml.xml
+C:\Dev\HESSorgu\bin\EntityFramework.xml
+C:\Dev\HESSorgu\bin\EntityFramework.SqlServer.xml
+C:\Dev\HESSorgu\bin\ExcelDataReader.pdb
+C:\Dev\HESSorgu\bin\ExcelDataReader.xml
+C:\Dev\HESSorgu\bin\ExcelNumberFormat.xml
+C:\Dev\HESSorgu\bin\RestSharp.xml
+C:\Dev\HESSorgu\bin\System.Json.xml
+C:\Dev\HESSorgu\bin\System.Web.Helpers.xml
+C:\Dev\HESSorgu\bin\System.Web.Mvc.xml
+C:\Dev\HESSorgu\bin\System.Web.Optimization.xml
+C:\Dev\HESSorgu\bin\System.Web.Razor.xml
+C:\Dev\HESSorgu\bin\System.Web.WebPages.xml
+C:\Dev\HESSorgu\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\HESSorgu\bin\System.Web.WebPages.Razor.xml
+C:\Dev\HESSorgu\bin\Newtonsoft.Json.xml
+C:\Dev\HESSorgu\bin\Antlr3.Runtime.pdb
+C:\Dev\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\HESSorgu\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Dev\HESSorgu\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Dev\HESSorgu\obj\Debug\HESSorgu.dll
+C:\Dev\HESSorgu\obj\Debug\HESSorgu.pdb
+C:\Dev\HESSorgu\obj\Debug\HESSorgu.csprojAssemblyReference.cache
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\HESSorgu.dll.config
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\HESSorgu.pdb
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\csc.exe.config
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\csc.rsp
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\csi.exe
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\csi.exe.config
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\csi.rsp
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.AppContext.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Console.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Net.Http.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\vbc.exe
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\vbc.exe.config
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\vbc.rsp
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Antlr3.Runtime.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ClosedXML.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\DocumentFormat.OpenXml.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\EntityFramework.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\EntityFramework.SqlServer.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ExcelDataReader.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ExcelNumberFormat.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Newtonsoft.Json.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\RestSharp.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.IO.Packaging.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Json.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Helpers.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Mvc.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Optimization.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Razor.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.WebPages.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\WebGrease.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ClosedXML.pdb
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ClosedXML.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\DocumentFormat.OpenXml.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\EntityFramework.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\EntityFramework.SqlServer.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ExcelDataReader.pdb
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ExcelDataReader.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\ExcelNumberFormat.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\RestSharp.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Json.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Helpers.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Mvc.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Optimization.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.Razor.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.WebPages.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Newtonsoft.Json.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Antlr3.Runtime.pdb
+C:\Users\berkant.akyuz\Desktop\HESSorgu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkant.akyuz\Desktop\HESSorgu\obj\Debug\HESSorgu.csproj.CoreCompileInputs.cache
+C:\Users\berkant.akyuz\Desktop\HESSorgu\obj\Debug\HESSorgu.csproj.CopyComplete
+C:\Users\berkant.akyuz\Desktop\HESSorgu\obj\Debug\HESSorgu.dll
+C:\Users\berkant.akyuz\Desktop\HESSorgu\obj\Debug\HESSorgu.pdb

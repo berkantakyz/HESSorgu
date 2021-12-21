@@ -1,0 +1,211 @@
+﻿@{
+    ViewBag.Title = "QRScan";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <br />           <br />            <br />            <br />            <br />            <br />            <br />            <br />
+            <video id="preview" style="width : 100%"></video>
+        </div>
+        <div class="col-md-6">
+
+            @*<input type="text" name="text" id="text" readonly="" placeholder="scan qrcode" class="form-control" />*@
+            @*<label id="text" style="font-size : 15px">QR HES Kodunuzu Okutun !</label>*@
+
+            <br />
+            <br />
+
+            <div class="row">
+
+                <div class="col-6">
+
+                    <label for="male" style="font-size: 25px; /* font-size: 30px; */ margin-bottom: 40px; /* position: relative; */ font-family: 'Raleway', sans-serif; color: white; padding-right: 20px; padding-top: 15px;">HES KODU</label>
+                    <input type="text" class="input-field" placeholder="" disabled="disabled" style="width: 250px; font-size : 20px; background: white; opacity : 0.7" id="hesCode" required>
+
+                </div>
+
+                <div class="col-6">
+
+                    <label for="male" style="font-size: 25px; /* font-size: 30px; */ margin-bottom: 40px; /* position: relative; */ font-family: 'Raleway', sans-serif; color: white; padding-right: 20px; padding-top: 15px;">DURUMU</label>
+
+                    <input type="text" class="input-field" placeholder="" disabled="disabled" style="width: 250px; font-size : 20px; background: white; opacity : 0.7" id="durumu" required>
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-6">
+
+                    <label for="male" style="font-size: 25px; /* font-size: 30px; */ margin-bottom: 40px; /* position: relative; */ font-family: 'Raleway', sans-serif; color: white; padding-right: 20px; padding-top: 15px;">ADI</label>
+                    <input type="text" class="input-field" placeholder="" disabled="disabled" style="width: 250px; font-size : 20px; background: white; opacity : 0.7" id="adi" required>
+
+                </div>
+
+                <div class="col-6">
+
+                    <label for="male" style="font-size: 25px; /* font-size: 30px; */ margin-bottom: 40px; /* position: relative; */ font-family: 'Raleway', sans-serif; color: white; padding-right: 20px; padding-top: 15px;">SOYADI</label>
+                    <input type="text" class="input-field" placeholder="" disabled="disabled" style="width: 250px; font-size : 20px; background: white; opacity : 0.7" id="soyadi" required>
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-6">
+
+                    <label for="male" style="font-size: 25px; /* font-size: 30px; */ margin-bottom: 40px; /* position: relative; */ font-family: 'Raleway', sans-serif; color: white; padding-right: 20px; padding-top: 15px;">TC KİMLİK NO</label>
+                    <input type="text" class="input-field" placeholder="" disabled="disabled" style="width: 250px; font-size : 20px; background: white; opacity : 0.7" id="tcKimlikNo" required>
+
+                </div>
+
+                <div class="col-6">
+
+                    <label for="male" style="font-size: 25px; /* font-size: 30px; */ margin-bottom: 40px; /* position: relative; */ font-family: 'Raleway', sans-serif; color: white; padding-top: 15px;">GEÇERLİLİK TARİHİ</label>
+                    <input type="text" class="input-field" placeholder="" disabled="disabled" style="width: 250px; font-size : 20px; background: white; opacity : 0.7" id="gecerlilikTarihi" required>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    var audio = new Audio("../Media/Sounds/scan.wav");
+
+    function playAudio() {
+        audio.play();
+    }
+
+    let scanner = new Instascan.Scanner({ video: document.getElementById('preview') });
+
+    Instascan.Camera.getCameras().then(function (cameras) {
+        if (cameras.length > 0) {
+
+            scanner.start(cameras[0]);
+        } else {
+            alert("No cameras found");
+        }
+
+    }).catch(function (e) {
+
+        console.error(e);
+    });
+
+    scanner.addListener('scan', function (c) {
+
+        playAudio();
+
+        alanTemizle();
+
+        document.getElementById("hesCode").value = c.slice(-10);
+
+        $.ajax({
+            type: 'POST',
+            dataType: 'json',
+            url: '/Home/hesKontrolQR',
+            data: { hesCode: c.slice(-10) },
+            success: function (data) {
+
+                if (data.msg == "success") {
+
+                    var durum = data.model.current_health_status;
+
+                    if (durum == "RISKY") {
+
+                        durum = "RİSKLİ";
+                    }
+
+                    else {
+                        durum = "RİSKSİZ";
+                    }
+
+                    var tarih = data.model.expiration_date.replace("(", "*").replace(")", "*").split("*");
+
+                    var tarihtemp = new Date(parseInt(tarih[1])).toLocaleDateString("en-US");
+
+                    document.getElementById("tcKimlikNo").value = data.model.masked_identity_number;
+                    document.getElementById("durumu").value = durum;
+                    document.getElementById("adi").value = data.model.masked_firstname;
+                    document.getElementById("soyadi").value = data.model.masked_lastname;
+                    document.getElementById("gecerlilikTarihi").value = tarihtemp;
+
+                    document.getElementById("success-alert").innerText = "Başarılı, HES Kodu Risksiz!";
+
+                    window.scrollTo(0, 0);
+
+                    $(document).ready(function () {
+
+                        $("#success-alert").hide();
+
+                        $("#success-alert").fadeTo(5000, 500).slideUp(500, function () {
+
+                            $("#success-alert").slideUp(500);
+                        });
+
+                    });
+                }
+
+                else if (data.msg == "hescodehasbeenexpired") {
+
+                    document.getElementById("danger-alert").innerText = "Girilen HES Kodunun Kullanım Süresi Dolmuştur!";
+
+                    window.scrollTo(0, 0);
+
+                    $(document).ready(function () {
+
+                        $("#danger-alert").hide();
+
+                        $("#danger-alert").fadeTo(5000, 500).slideUp(500, function () {
+
+                            $("#danger-alert").slideUp(500);
+                        });
+
+                    });
+
+                }
+
+                else if (data.msg == "hescodenotfound") {
+
+                    document.getElementById("danger-alert").innerText = "Girilen HES Kodu Geçerli Değildir!";
+
+                    window.scrollTo(0, 0);
+
+                    $(document).ready(function () {
+
+                        $("#danger-alert").hide();
+
+                        $("#danger-alert").fadeTo(5000, 500).slideUp(500, function () {
+
+                            $("#danger-alert").slideUp(500);
+                        });
+                    });
+                }
+
+                else {
+                    alert("HATA : " + data.msg);
+                }
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+
+
+            }
+        });
+    });
+
+</script>
+
+<script>
+
+    function alanTemizle() {
+
+        document.getElementById("tcKimlikNo").value = "";
+        document.getElementById("durumu").value = "";
+        document.getElementById("adi").value = "";
+        document.getElementById("soyadi").value = "";
+        document.getElementById("gecerlilikTarihi").value = "";
+        document.getElementById("hesCode").value = "";
+    }   
+
+</script>

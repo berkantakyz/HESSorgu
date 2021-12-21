@@ -1,0 +1,70 @@
+﻿@model HESSorgu.Models.checkEmployee
+
+@{
+    ViewBag.Title = "Anasayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-agille">
+    <div class="formBox level-login">
+        <div class="box loginBox">
+            <h3>HES Kodu Sorgulama</h3>
+            <form class="form" action="@Url.Content("~/Home/hesKontrol")" method="post">
+
+                <div class="f_row-2">
+                    <input type="text" class="input-field" placeholder="HES Kodunu Girin" oninvalid="this.setCustomValidity('Lütfen sorgulamak istediğiniz HES kodunu girin!')" name="hesCode" required>
+
+                    <button style="background-color: transparent;" id ="qr" name ="qr">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="currentColor" style="width:48px; height:48px" class="bi bi-qr-code" color="white" viewBox="0 0 16 16">
+                            <path d="M2 2h2v2H2V2Z" />
+                            <path d="M6 0v6H0V0h6ZM5 1H1v4h4V1ZM4 12H2v2h2v-2Z" />
+                            <path d="M6 10v6H0v-6h6Zm-5 1v4h4v-4H1Zm11-9h2v2h-2V2Z" />
+                            <path d="M10 0v6h6V0h-6Zm5 1v4h-4V1h4ZM8 1V0h1v2H8v2H7V1h1Zm0 5V4h1v2H8ZM6 8V7h1V6h1v2h1V7h5v1h-4v1H7V8H6Zm0 0v1H2V8H1v1H0V7h3v1h3Zm10 1h-1V7h1v2Zm-1 0h-1v2h2v-1h-1V9Zm-4 0h2v1h-1v1h-1V9Zm2 3v-1h-1v1h-1v1H9v1h3v-2h1Zm0 0h3v1h-2v1h-1v-2Zm-4-1v1h1v-2H7v1h2Z" />
+                            <path d="M7 12h1v3h4v1H7v-4Zm9 2v2h-3v-1h2v-1h1Z" />
+                        </svg>
+                    </button>
+                </div>
+
+                <p style="color:white; font-size : 15px ; font-family: 'Raleway', sans-serif;">* HES Kodunu girdikten sonra SORGULA butonuna tıklayarak işlemin tamamlanmasını bekleyin. </p>
+                <div class="row">
+                    @*<div class="col-6">
+                <input class="submit-w3" type="file" id="FileUpload1" />
+                <input class="submit-w3" type="button" id="btnUpload" value="Upload Files" />
+            </div>*@
+
+                    <div class="col-6">
+                        <input class="submit-w3" type="submit" value="Sorgula">
+                    </div>
+                </div>
+                <br />
+                <br />
+                <div class="row">
+                    <div class="input-group">
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="FileUpload1" accept=".csv">
+                            <label class="custom-file-label" for="exampleInputFile">Excel Dosyası Seçin</label>
+                        </div>
+                        <div class="input-group-append">
+                            <input class="input-group-text" type="button" id="btnUpload" value="Yükle" />
+                            @*<span class="input-group-text" type="button" id="btnUpload">Upload</span>*@
+                        </div>
+                    </div>
+
+                </div>
+                <br />
+                <div class="row">
+                    <h2 style="color:white; font-family: 'Raleway', sans-serif; font-weight : 900 ">
+                        CSV Formatı
+
+                    </h2>
+                </div>
+                <br />
+                <div class="row">
+                    <h2 style="color:white; font-family: 'Raleway', sans-serif; font-weight : 900">
+                         KOD 1 || KOD 2 || KOD 3 <br>
+                    </h2>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

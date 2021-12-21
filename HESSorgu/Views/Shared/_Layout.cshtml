@@ -1,0 +1,186 @@
+﻿@model HESSorgu.Models.checkEmployee
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Anasayfa</title>
+
+    @*ScanQR*@
+    @*
+    <script type="text/javascript" src="https://rawgit.com/schmich/instascan-builds/master/instascan.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/3.3.3/adapter.min.js"></script>*@
+
+    <script type="text/javascript" src="~/js/QR/adapter.min.js"></script>
+    <script type="text/javascript" src="~/js/QR/instascan.min.js"></script>
+    <script type="text/javascript" src="~/js/QR/vue.min.js"></script>
+
+    @*ScanQR*@
+
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/js/google-api.js"></script>
+    <script src="~/js/jquery-2.2.3.min.js"></script>
+    <script src="~/js/input-field.js"></script>
+    <link href="~/css/font-css.css" rel="stylesheet">
+    <link href="~/Content/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" media="all" />
+    <link href="~/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="alert alert-danger" role="alert" style="display: none; text-align: center; font-size: 25px; color: white; font-family: 'Raleway', sans-serif; font-weight: 600" id="danger-alert">
+        <div class="row">
+            <div class="col-12">
+                <h5 style="text-align : center">@TempData["errorMessage"]</h5>
+            </div>
+        </div>
+    </div>
+
+    <div class="alert alert-success" role="alert" style="display: none; text-align: center; font-size: 25px; color: white; font-family: 'Raleway', sans-serif; font-weight: 600" id="success-alert">
+        <div class="row">
+            <div class="col-12">
+                <h5 style="text-align : center">@TempData["successMessage"]</h5>
+            </div>
+        </div>
+    </div>
+
+    <div class="alert alert-warning" role="alert" style="display: none; font-size: 25px; color: black; font-family: 'Raleway', sans-serif; font-weight: 600" id="warning-alert">
+        <div class="row" style="text-align:center">
+            <div class="col-12">
+                <div class="row" style="left: 620px; position: relative;">
+                    <div class="spinner-border" role="status">
+                        <span class="sr-only"></span>
+                    </div>
+                    <h5 style="position : relative ; left : 10px">HES Kodları Sorgulanıyor.Lütfen Sayfayı Kapatmayın !</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="alert alert-success" role="alert" style="display: none; font-size: 25px; color: white; font-family: 'Raleway', sans-serif; font-weight: 600" id="success-alert2">
+        <div class="row" style="text-align:center">
+            <div class="col-12">
+                <div class="row" style="left: 620px; position: relative;">
+                    <h5 style="position : relative ; right : 90px">Başarılı ! Kod Sonuçları Mail Adresinize Gönderildi.Mail Kutunuzu Kontrol Edin</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="col-12">
+
+            @RenderBody()
+
+        </div>
+
+    </div>
+</body>
+</html>
+
+<script>
+    var kontrolSuccess = '@TempData["successMessage"]';
+    var kontrolError = '@TempData["errorMessage"]';
+
+    if (kontrolSuccess != null && kontrolSuccess != '')
+    {
+        $(document).ready(function () {
+
+            $("#success-alert").hide();
+
+            $("#success-alert").fadeTo(5000, 500).slideUp(500, function () {
+
+                $("#success-alert").slideUp(500);
+            });
+
+        });
+    }
+
+    if (kontrolError != null && kontrolError != '') {
+
+        $(document).ready(function () {
+
+            $("#danger-alert").hide();
+
+            $("#danger-alert").fadeTo(5000, 500).slideUp(500, function () {
+
+                $("#danger-alert").slideUp(500);
+            });
+
+        });
+    }
+</script>
+
+<script>
+    $(document).ready(function () {
+        $('#btnUpload').click(function () {
+
+            var xa = document.getElementById("success-alert2");
+            if (xa.style.display != "none") {
+                xa.style.display = "none";
+            } 
+
+            var x = document.getElementById("warning-alert");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            }
+            
+            // Checking whether FormData is available in browser
+            if (window.FormData !== undefined) {
+
+                var fileUpload = $("#FileUpload1").get(0);
+                var files = fileUpload.files;
+
+                // Create FormData object
+                var fileData = new FormData();
+
+                // Looping over all files and add it to FormData object
+                for (var i = 0; i < files.length; i++) {
+                    fileData.append(files[i].name, files[i]);
+                }
+
+                // Adding one more key to FormData object
+                fileData.append('username', "Manas");
+
+                $.ajax({
+                    url: '/Home/UploadFiles',
+                    type: "POST",
+                    contentType: false, // Not to set any content header
+                    processData: false, // Not to process data
+                    data: fileData,
+                    success: function (result) {
+
+                        var x = document.getElementById("warning-alert");
+                        if (x.style.display != "none") {
+                            x.style.display = "none";
+                        }
+                       
+                        var xyz = document.getElementById("success-alert2");
+                        if (xyz.style.display === "none") {
+                            xyz.style.display = "block";
+                        }
+                    
+                    },
+                    error: function (err) {
+                        alert(err.statusText);
+                    }
+                });
+            } else {
+                alert("FormData is not supported.");
+            }
+        });
+    });
+
+</script>
+
+<script>
+    $(document).ready(function () {
+        $('#qr').click(function () {
+
+            window.open(window.location.origin+'/Home/QRScan');
+        });
+    });
+</script>
